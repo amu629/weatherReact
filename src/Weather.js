@@ -59,9 +59,6 @@ class Weather extends PureComponent {
         )
     }
     render() {
-        if(this.state.responses === 1) {
-            alert(this.state.localtime);
-        } 
         return (
             <div className="container">
                 <form onSubmit = {this.handleOnSubmit}>
