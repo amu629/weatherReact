@@ -1,0 +1,112 @@
+.city {
+    background-color: blue;
+    text-align: center;
+    width: 50%;
+    margin: 4px 2px;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+.state {
+    background-color: blue;
+    text-align: center;
+    width: 50%;
+    margin: 4px 2px;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+.country {
+    background-color: blue;
+    text-align: center;
+    width: 50%;
+    margin: 4px 2px;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+.time {
+    background-color: blue;
+    text-align: center;
+    width: 50%;
+    margin: 4px 2px;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+.temp {
+    background-color: blue;
+    text-align: center;
+    width: 50%;
+    margin: 4px 2px;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+.speed {
+    background-color: blue;
+    text-align: center;
+    width: 50%;
+    margin: 4px 2px;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+.direction {
+    background-color: blue;
+    text-align: center;
+    width: 50%;
+    margin: 4px 2px;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+.visibility {
+    background-color: blue;
+    text-align: center;
+    width: 50%;
+    margin: 4px 2px;
+    padding: 15px 20px;
+    border-radius: 10px;
+    
+}
+
+.city:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.state:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.country:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.time:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.temp:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.speed:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.direction:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.visibility:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
